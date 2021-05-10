@@ -153,7 +153,7 @@ keys = [
             ),
         Key(
             [mod], "d",
-            lazy.spawn('rofi -show drun'),
+            lazy.spawn('rofi -show drun -width 15'),
             desc="Spawn rofi"
             ),
 

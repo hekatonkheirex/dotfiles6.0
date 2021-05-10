@@ -447,25 +447,21 @@ allow_for_physical_item_deletion = yes
 ##
 ## Note: You can define startup screen by choosing screen from the list above.
 ##
-#startup_screen = playlist
-startup_screen = visualizer
+startup_screen = playlist
 #
 ##
 ## Note: You can define startup slave screen by choosing screen from the list
 ## above or an empty value for no slave screen.
 ##
-#startup_slave_screen = ""
-startup_slave_screen = playlist
+startup_slave_screen = ""
 #
-#startup_slave_screen_focus = no
-startup_slave_screen_focus = yes
+startup_slave_screen_focus = no
 #
 ##
 ## Default width of locked screen (in %).  Acceptable values are from 20 to 80.
 ##
 #
-#locked_screen_width_part = 50
-locked_screen_width_part = 31
+locked_screen_width_part = 50
 #
 #ask_for_locked_screen_width_part = yes
 #
