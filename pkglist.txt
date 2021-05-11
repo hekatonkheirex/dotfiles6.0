@@ -39,6 +39,7 @@ firefox
 flashfocus-git
 flex
 fuse2
+galculator
 gcc
 git
 gnome-keyring
