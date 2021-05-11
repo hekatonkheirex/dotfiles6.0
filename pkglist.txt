@@ -2,6 +2,7 @@ acpi
 acpi_call
 adobe-source-han-sans-jp-fonts
 adobe-source-han-sans-kr-fonts
+aic94xx-firmware
 alacritty
 alsa-utils
 amd-ucode
@@ -145,9 +146,11 @@ tumbler
 ueberzug
 unclutter
 unzip
+upd72020x-fw
 vivaldi
 vivaldi-ffmpeg-codecs
 w3m
+wd719x-firmware
 which
 wmctrl
 wpa_supplicant
