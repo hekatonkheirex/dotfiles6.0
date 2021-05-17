@@ -17,7 +17,6 @@ xfce4-power-manager &
 blueberry-tray &
 nm-applet &
 gnome-keyring-daemon --start --components=pkcs11 &
-flashfocus &
 
 pgrep -x sxhkd > /dev/null || sxhkd &
 
