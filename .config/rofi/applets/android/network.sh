@@ -5,10 +5,8 @@
 ## Github  : @adi1090x
 ## Twitter : @adi1090x
 
-style="$($HOME/.config/rofi/applets/applets/style.sh)"
-
-dir="$HOME/.config/rofi/applets/applets/configs/$style"
-rofi_command="rofi -theme $dir/network.rasi"
+dir="$HOME/.config/rofi/applets/android"
+rofi_command="rofi -theme $dir/four.rasi"
 
 ## Get info
 IFACE="$(nmcli | grep -i interface | awk '/interface/ {print $2}')"
@@ -65,4 +63,5 @@ case $chosen in
         nm-connection-editor
         ;;
 esac
+
 
