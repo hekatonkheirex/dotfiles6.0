@@ -12,7 +12,7 @@ picom -f -b &
 light -S 50 &
 $HOME/.config/polybar/launch.sh &
 $HOME/.config/scripts/thunar.sh &
-xss-lock -l $HOME/.config/scripts/lockscreen.sh &
+xss-lock -l $HOME/.config/scripts/lock.sh &
 xfce4-power-manager &
 blueberry-tray &
 nm-applet &
