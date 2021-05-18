@@ -1,5 +1,6 @@
 acpi
 acpi_call
+acpid
 adobe-source-han-sans-jp-fonts
 adobe-source-han-sans-kr-fonts
 aic94xx-firmware
@@ -45,6 +46,7 @@ gcc
 gimp
 git
 gnome-backgrounds
+gnome-keyring
 gnome-mahjongg
 google-chrome
 groff
